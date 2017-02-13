@@ -1,2 +1,2 @@
 # git-demo-intro
-*Simple demo on Github*
+*Introduction demo on Github*
